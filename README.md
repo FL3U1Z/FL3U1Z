@@ -6,8 +6,8 @@
 
 
 ##
-- 🔭 Atualmente sou estágiário e trabalho com Node.JS, React e Typescript
-- 🌱 Estou estudando React Native, IA e Azure 
+- 🔭  I'm a Software Engineer at @Telefonica
+- 🌱 Estou estudando IA e python
 ##
 
 <div>
